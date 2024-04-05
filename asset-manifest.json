@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Movie-and-TV-Show/static/css/main.929ea939.css",
+    "main.js": "/Movie-and-TV-Show/static/js/main.cd88c9f2.js",
+    "static/js/787.6ac643bb.chunk.js": "/Movie-and-TV-Show/static/js/787.6ac643bb.chunk.js",
+    "static/media/no-poster.png": "/Movie-and-TV-Show/static/media/no-poster.de8cb0a7786e6bf2b2de.png",
+    "static/media/avatar.png": "/Movie-and-TV-Show/static/media/avatar.0affc1eeb2b145c80bd1.png",
+    "static/media/website-logo.svg": "/Movie-and-TV-Show/static/media/website-logo.ed2840d7d1cd69e6e150a1d79a412fb2.svg",
+    "static/media/no-results.png": "/Movie-and-TV-Show/static/media/no-results.2d2c6ee352de3daf8a56.png",
+    "index.html": "/Movie-and-TV-Show/index.html",
+    "main.929ea939.css.map": "/Movie-and-TV-Show/static/css/main.929ea939.css.map",
+    "main.cd88c9f2.js.map": "/Movie-and-TV-Show/static/js/main.cd88c9f2.js.map",
+    "787.6ac643bb.chunk.js.map": "/Movie-and-TV-Show/static/js/787.6ac643bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.929ea939.css",
+    "static/js/main.cd88c9f2.js"
+  ]
+}
